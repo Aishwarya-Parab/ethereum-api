@@ -2,7 +2,7 @@
 
 &nbsp;
 
-Thanks to this __Ethereum API__, enriching your smart-contracts with external data using __Provable__ is very easy!
+Thanks to this __Ethereum API__, enriching your smart-contracts with external data using __Provable__ is very easy!!
 
 In Solidity it is as simple as inheriting the __`usingProvable`__ contract that you'll find in this repository.
 
